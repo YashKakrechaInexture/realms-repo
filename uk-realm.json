@@ -1,0 +1,9 @@
+{
+  "realm" : "uk-realm",
+  "resource" : "ukClient",
+  "credentials" : {
+    "secret" : "8sAxzmAY5mHQuRD7kNdYxqMmIHCXU2Km"
+  },
+  "auth-server-url" : "https://localhost:8443",
+  "public-client" : false
+}
