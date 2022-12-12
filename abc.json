@@ -1,0 +1,9 @@
+{
+	"realm" : "jp-realm",
+	"resource" : "jpClient",
+	"credentials" : {
+		"secret" : "tfyu6A7EDJJP6ch6IPXoSpjxNKblhQqe"
+	},
+	"auth-server-url" : "https://localhost:8443",
+	"public-client" : false
+}
