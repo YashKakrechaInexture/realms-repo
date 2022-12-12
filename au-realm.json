@@ -1,0 +1,9 @@
+{
+	"realm" : "au-realm",
+	"resource" : "auClient",
+	"credentials" : {
+		"secret" : "eqnBMCO56Ick8F5zaAhADh2MZKeiF8Db"
+	},
+	"auth-server-url" : "https://localhost:8443",
+	"public-client" : false
+}
